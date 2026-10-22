@@ -1,0 +1,9 @@
+{
+  "name": "Smart Campus Dining",
+  "short_name": "Campus Dining",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ecfeff",
+  "theme_color": "#0f766e",
+  "icons": []
+}
